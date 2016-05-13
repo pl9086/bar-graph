@@ -1,0 +1,14 @@
+#frame {
+  position: relative;
+  width: 800px;
+  height: 400px;
+  margin: auto;
+  border: 3px solid black;
+  background-image: url(graph_bg.svg);
+}
+
+.bar {
+  position: absolute;
+  width:20px;
+  bottom:0; 
+}
